@@ -1,0 +1,9 @@
+﻿Taller Trees is a mod for you to customize the height of the vanilla Terraria trees.
+You need to provide enough space for the tree to grow.
+You can customize trees' height in Mod Configuration.
+Note that palm trees are not included for technical reasons.
+
+高树是一个可以让你自定义Terraria原版树木高度的Mod。
+你需要提供足够的空间供树生长。
+你可以在Mod Configuration界面自定义高度。
+请注意由于技术原因，棕榈树并不包括在内。

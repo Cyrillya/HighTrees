@@ -1,0 +1,28 @@
+﻿Mods: {
+	HighTrees: {
+		Configs: {
+			Label: {
+				Title:树木高度配置选项
+				MinMost:普遍树最小高度
+				MaxMost:普遍树最大高度
+				MinGem:宝石树最小高度
+				MaxGem:宝石树最大高度
+				MinSakura:樱花树最小高度
+				MaxSakura:樱花树最大高度
+				MinWillow:黄柳树最小高度
+				MaxWillow:黄柳树最大高度
+			}
+
+			Tooltip: {
+				MinMost:普遍树木的最小基础高度. 需要重新加载Mod以应用. 棕榈木不包括在内.
+				MaxMost:普遍树木的最大基础高度. 需要重新加载Mod以应用. 棕榈木不包括在内
+				MinGem:宝石树的最小高度. 需要重新加载Mod以应用.
+				MaxGem:宝石树的最大高度. 需要重新加载Mod以应用.
+				MinSakura:樱花树的最小高度. 需要重新加载Mod以应用.
+				MaxSakura:樱花树的最大高度. 需要重新加载Mod以应用.
+				MinWillow:黄柳树的最小高度. 需要重新加载Mod以应用.
+				MaxWillow:黄柳树的最大高度. 需要重新加载Mod以应用.
+			}
+		}
+	}
+}

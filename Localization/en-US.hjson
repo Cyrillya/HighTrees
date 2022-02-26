@@ -1,0 +1,28 @@
+﻿Mods: {
+	HighTrees: {
+		Configs: {
+			Label: {
+				Title:Tree Height Configuration
+				MinMost:Minimum Most Tree Height
+				MaxMost:Maximum Most Tree Height
+				MinGem:Minimum Gem Tree Height
+				MaxGem:Maximum Gem Tree Height
+				MinSakura:Minimum Sakura Tree Height
+				MaxSakura:Maximum Sakura Tree Height
+				MinWillow:Minimum Willow Tree Height
+				MaxWillow:Maximum Willow Tree Height
+			}
+
+			Tooltip: {
+				MinMost:Minimum base height for most trees. Requires a Reload. Note that palm trees are not included.
+				MaxMost:Maximum base height for most trees. Requires a Reload. Note that palm trees are not included.
+				MinGem:Minimum base height for gem trees. Requires a Reload.
+				MaxGem:Maximum base height for gem trees. Requires a Reload.
+				MinSakura:Minimum base height for sakura trees. Requires a Reload.
+				MaxSakura:Maximum base height for sakura trees. Requires a Reload.
+				MinWillow:Minimum base height for willow trees. Requires a Reload.
+				MaxWillow:Maximum base height for willow trees. Requires a Reload.
+			}
+		}
+	}
+}
