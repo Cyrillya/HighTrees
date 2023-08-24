@@ -1,32 +1,33 @@
-﻿Mods: {
+Mods: {
 	HighTrees: {
 		Configs: {
 			Label: {
-				Title:Tree Height Configuration
-				MinMost:Minimum Most Tree Height
-				MaxMost:Maximum Most Tree Height
-				MinPalm:Minimum Palm Tree Height
-				MaxPalm:Maximum Palm Tree Height
-				MinGem:Minimum Gem Tree Height
-				MaxGem:Maximum Gem Tree Height
-				MinSakura:Minimum Sakura Tree Height
-				MaxSakura:Maximum Sakura Tree Height
-				MinWillow:Minimum Willow Tree Height
-				MaxWillow:Maximum Willow Tree Height
+				MinMost: Minimum Most Tree Height
+				MaxMost: Maximum Most Tree Height
+				MinPalm: Minimum Palm Tree Height
+				MaxPalm: Maximum Palm Tree Height
+				MinGem: Minimum Gem Tree Height
+				MaxGem: Maximum Gem Tree Height
+				MinSakura: Minimum Sakura Tree Height
+				MaxSakura: Maximum Sakura Tree Height
+				MinWillow: Minimum Willow Tree Height
+				MaxWillow: Maximum Willow Tree Height
 			}
 
 			Tooltip: {
-				MinMost:Minimum base height for most trees. Note that palm trees are not included.
-				MaxMost:Maximum base height for most trees. Note that palm trees are not included.
-				MinPalm:Minimum base height for palm trees.
-				MaxPalm:Maximum base height for palm trees.
-				MinGem:Minimum base height for gem trees.
-				MaxGem:Maximum base height for gem trees.
-				MinSakura:Minimum base height for sakura trees.
-				MaxSakura:Maximum base height for sakura trees.
-				MinWillow:Minimum base height for willow trees.
-				MaxWillow:Maximum base height for willow trees.
+				MinMost: Minimum base height for most trees. Note that palm trees are not included.
+				MaxMost: Maximum base height for most trees. Note that palm trees are not included.
+				MinPalm: Minimum base height for palm trees.
+				MaxPalm: Maximum base height for palm trees.
+				MinGem: Minimum base height for gem trees.
+				MaxGem: Maximum base height for gem trees.
+				MinSakura: Minimum base height for sakura trees.
+				MaxSakura: Maximum base height for sakura trees.
+				MinWillow: Minimum base height for willow trees.
+				MaxWillow: Maximum base height for willow trees.
 			}
+
+			HigherTreesConfig.DisplayName: Tree Height Configuration
 		}
 	}
 }

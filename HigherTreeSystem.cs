@@ -10,8 +10,8 @@ public class HigherTreeSystem : ModSystem
     public override void Load() {
         base.Load();
         _config = ModContent.GetInstance<HigherTreesConfig>();
-        IL.Terraria.WorldGen.GrowTree += WorldGen_GrowTree;
-        IL.Terraria.WorldGen.GrowPalmTree += ModifyPalmTrees;
+        IL_WorldGen.GrowTree += WorldGen_GrowTree;
+        IL_WorldGen.GrowPalmTree += ModifyPalmTrees;
         SetTreeHeights(_config.GemHeightMin, _config.GemHeightMax, _config.SakuraHeightMin, _config.SakuraHeightMax,
             _config.WillowHeightMin, _config.WillowHeightMax);
     }
