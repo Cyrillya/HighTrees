@@ -3,6 +3,8 @@ You need to provide enough space for the tree to grow.
 You can customize trees' height in Mod Configuration.
 Note that palm trees are not included for technical reasons.
 
+Russian Localization: xenofite
+
 高树是一个可以让你自定义Terraria原版树木高度的Mod。
 你需要提供足够的空间供树生长。
 你可以在Mod Configuration界面自定义高度。
